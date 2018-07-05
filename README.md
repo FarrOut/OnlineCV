@@ -1,4 +1,4 @@
 # Online
 Wordpress theme for an Online CV for Software Developers.
 
-[![CircleCI](https://circleci.com/gh/FarrOut/OnlineCV.svg?style=svg)](https://circleci.com/gh/FarrOut/OnlineCV)
+[![GitLab](https://gitlab.com/FarrOut/OnlineCV/badges/master/build.svg)](https://gitlab.com/FarrOut/OnlineCV)
